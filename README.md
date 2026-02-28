@@ -1,2 +1,3 @@
 # d-playground
-playing around with d
+
+playing around with [d (dlang)](https://dlang.org)
